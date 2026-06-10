@@ -38,6 +38,10 @@ https://zhangcx.shinyapps.io/WhereShouldYouWork/
 
 ### Raw Data
 * data/ – Raw source data files
+* data/wage.xlsx – BLS Occupational Employment and Wage Statistics (OEWS)
+* data/unemployment_rate.xlsx – BLS Local Area Unemployment Statistics (LAUS)
+* data/RPP.csv – BEA Regional Price Parities (RPP)
+* data/Median Gross Rent.csv – U.S. Census ACS Median Gross Rent data
 
 ### Project Documentation
 * Project Proposal.pdf - Initial project proposal
