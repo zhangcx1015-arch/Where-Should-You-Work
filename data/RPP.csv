@@ -1,0 +1,267 @@
+SARPP Regional price parities by state
+SARPP Regional price parities by state
+State or DC
+GeoFIPS,GeoName,LineCode,Description,2024
+00000,United States,1,RPPs: All items,100.000
+00000,United States,2,"  RPPs: Goods",99.567
+00000,United States,3,"  RPPs: Services: Housing",100.629
+00000,United States,4,"  RPPs: Services: Utilities",98.441
+00000,United States,5,"  RPPs: Services: Other",100.147
+01000,Alabama,1,RPPs: All items,88.823
+01000,Alabama,2,"  RPPs: Goods",96.399
+01000,Alabama,3,"  RPPs: Services: Housing",61.785
+01000,Alabama,4,"  RPPs: Services: Utilities",84.643
+01000,Alabama,5,"  RPPs: Services: Other",96.711
+02000,Alaska,1,RPPs: All items,102.359
+02000,Alaska,2,"  RPPs: Goods",106.319
+02000,Alaska,3,"  RPPs: Services: Housing",93.784
+02000,Alaska,4,"  RPPs: Services: Utilities",119.021
+02000,Alaska,5,"  RPPs: Services: Other",102.208
+04000,Arizona,1,RPPs: All items,100.677
+04000,Arizona,2,"  RPPs: Goods",95.361
+04000,Arizona,3,"  RPPs: Services: Housing",106.804
+04000,Arizona,4,"  RPPs: Services: Utilities",92.317
+04000,Arizona,5,"  RPPs: Services: Other",102.808
+05000,Arkansas,1,RPPs: All items,86.937
+05000,Arkansas,2,"  RPPs: Goods",93.597
+05000,Arkansas,3,"  RPPs: Services: Housing",58.203
+05000,Arkansas,4,"  RPPs: Services: Utilities",74.731
+05000,Arkansas,5,"  RPPs: Services: Other",95.312
+06000,California,1,RPPs: All items,110.720
+06000,California,2,"  RPPs: Goods",106.098
+06000,California,3,"  RPPs: Services: Housing",154.346
+06000,California,4,"  RPPs: Services: Utilities",158.899
+06000,California,5,"  RPPs: Services: Other",102.591
+08000,Colorado,1,RPPs: All items,103.052
+08000,Colorado,2,"  RPPs: Goods",98.727
+08000,Colorado,3,"  RPPs: Services: Housing",127.359
+08000,Colorado,4,"  RPPs: Services: Utilities",84.971
+08000,Colorado,5,"  RPPs: Services: Other",99.613
+09000,Connecticut,1,RPPs: All items,103.610
+09000,Connecticut,2,"  RPPs: Goods",97.330
+09000,Connecticut,3,"  RPPs: Services: Housing",117.048
+09000,Connecticut,4,"  RPPs: Services: Utilities",146.495
+09000,Connecticut,5,"  RPPs: Services: Other",102.658
+10000,Delaware,1,RPPs: All items,99.808
+10000,Delaware,2,"  RPPs: Goods",96.155
+10000,Delaware,3,"  RPPs: Services: Housing",102.015
+10000,Delaware,4,"  RPPs: Services: Utilities",103.810
+10000,Delaware,5,"  RPPs: Services: Other",101.235
+11000,District of Columbia,1,RPPs: All items,109.901
+11000,District of Columbia,2,"  RPPs: Goods",106.502
+11000,District of Columbia,3,"  RPPs: Services: Housing",154.984
+11000,District of Columbia,4,"  RPPs: Services: Utilities",112.821
+11000,District of Columbia,5,"  RPPs: Services: Other",102.964
+12000,Florida,1,RPPs: All items,103.414
+12000,Florida,2,"  RPPs: Goods",98.059
+12000,Florida,3,"  RPPs: Services: Housing",122.107
+12000,Florida,4,"  RPPs: Services: Utilities",90.074
+12000,Florida,5,"  RPPs: Services: Other",101.324
+13000,Georgia,1,RPPs: All items,96.293
+13000,Georgia,2,"  RPPs: Goods",98.929
+13000,Georgia,3,"  RPPs: Services: Housing",88.694
+13000,Georgia,4,"  RPPs: Services: Utilities",92.814
+13000,Georgia,5,"  RPPs: Services: Other",97.343
+15000,Hawaii,1,RPPs: All items,109.951
+15000,Hawaii,2,"  RPPs: Goods",111.562
+15000,Hawaii,3,"  RPPs: Services: Housing",125.304
+15000,Hawaii,4,"  RPPs: Services: Utilities",190.178
+15000,Hawaii,5,"  RPPs: Services: Other",102.898
+16000,Idaho,1,RPPs: All items,95.494
+16000,Idaho,2,"  RPPs: Goods",96.311
+16000,Idaho,3,"  RPPs: Services: Housing",90.027
+16000,Idaho,4,"  RPPs: Services: Utilities",70.444
+16000,Idaho,5,"  RPPs: Services: Other",99.015
+17000,Illinois,1,RPPs: All items,99.958
+17000,Illinois,2,"  RPPs: Goods",103.832
+17000,Illinois,3,"  RPPs: Services: Housing",93.944
+17000,Illinois,4,"  RPPs: Services: Utilities",84.952
+17000,Illinois,5,"  RPPs: Services: Other",100.156
+18000,Indiana,1,RPPs: All items,93.329
+18000,Indiana,2,"  RPPs: Goods",95.509
+18000,Indiana,3,"  RPPs: Services: Housing",73.926
+18000,Indiana,4,"  RPPs: Services: Utilities",85.545
+18000,Indiana,5,"  RPPs: Services: Other",99.145
+19000,Iowa,1,RPPs: All items,87.762
+19000,Iowa,2,"  RPPs: Goods",93.730
+19000,Iowa,3,"  RPPs: Services: Housing",65.322
+19000,Iowa,4,"  RPPs: Services: Utilities",83.274
+19000,Iowa,5,"  RPPs: Services: Other",92.927
+20000,Kansas,1,RPPs: All items,90.068
+20000,Kansas,2,"  RPPs: Goods",94.027
+20000,Kansas,3,"  RPPs: Services: Housing",71.156
+20000,Kansas,4,"  RPPs: Services: Utilities",88.438
+20000,Kansas,5,"  RPPs: Services: Other",93.816
+21000,Kentucky,1,RPPs: All items,90.159
+21000,Kentucky,2,"  RPPs: Goods",95.967
+21000,Kentucky,3,"  RPPs: Services: Housing",64.313
+21000,Kentucky,4,"  RPPs: Services: Utilities",75.313
+21000,Kentucky,5,"  RPPs: Services: Other",97.250
+22000,Louisiana,1,RPPs: All items,88.207
+22000,Louisiana,2,"  RPPs: Goods",93.700
+22000,Louisiana,3,"  RPPs: Services: Housing",63.104
+22000,Louisiana,4,"  RPPs: Services: Utilities",71.463
+22000,Louisiana,5,"  RPPs: Services: Other",95.706
+23000,Maine,1,RPPs: All items,97.050
+23000,Maine,2,"  RPPs: Goods",97.171
+23000,Maine,3,"  RPPs: Services: Housing",78.940
+23000,Maine,4,"  RPPs: Services: Utilities",135.189
+23000,Maine,5,"  RPPs: Services: Other",103.191
+24000,Maryland,1,RPPs: All items,104.959
+24000,Maryland,2,"  RPPs: Goods",102.524
+24000,Maryland,3,"  RPPs: Services: Housing",121.079
+24000,Maryland,4,"  RPPs: Services: Utilities",110.860
+24000,Maryland,5,"  RPPs: Services: Other",101.596
+25000,Massachusetts,1,RPPs: All items,105.757
+25000,Massachusetts,2,"  RPPs: Goods",98.820
+25000,Massachusetts,3,"  RPPs: Services: Housing",128.068
+25000,Massachusetts,4,"  RPPs: Services: Utilities",152.070
+25000,Massachusetts,5,"  RPPs: Services: Other",102.852
+26000,Michigan,1,RPPs: All items,96.217
+26000,Michigan,2,"  RPPs: Goods",95.993
+26000,Michigan,3,"  RPPs: Services: Housing",82.332
+26000,Michigan,4,"  RPPs: Services: Utilities",100.150
+26000,Michigan,5,"  RPPs: Services: Other",100.933
+27000,Minnesota,1,RPPs: All items,98.621
+27000,Minnesota,2,"  RPPs: Goods",100.519
+27000,Minnesota,3,"  RPPs: Services: Housing",91.281
+27000,Minnesota,4,"  RPPs: Services: Utilities",90.836
+27000,Minnesota,5,"  RPPs: Services: Other",100.213
+28000,Mississippi,1,RPPs: All items,86.953
+28000,Mississippi,2,"  RPPs: Goods",96.219
+28000,Mississippi,3,"  RPPs: Services: Housing",56.456
+28000,Mississippi,4,"  RPPs: Services: Utilities",78.415
+28000,Mississippi,5,"  RPPs: Services: Other",96.090
+29000,Missouri,1,RPPs: All items,90.817
+29000,Missouri,2,"  RPPs: Goods",96.299
+29000,Missouri,3,"  RPPs: Services: Housing",69.880
+29000,Missouri,4,"  RPPs: Services: Utilities",79.406
+29000,Missouri,5,"  RPPs: Services: Other",95.169
+30000,Montana,1,RPPs: All items,94.645
+30000,Montana,2,"  RPPs: Goods",96.006
+30000,Montana,3,"  RPPs: Services: Housing",84.648
+30000,Montana,4,"  RPPs: Services: Utilities",72.254
+30000,Montana,5,"  RPPs: Services: Other",98.715
+31000,Nebraska,1,RPPs: All items,90.103
+31000,Nebraska,2,"  RPPs: Goods",94.101
+31000,Nebraska,3,"  RPPs: Services: Housing",75.174
+31000,Nebraska,4,"  RPPs: Services: Utilities",75.604
+31000,Nebraska,5,"  RPPs: Services: Other",92.980
+32000,Nevada,1,RPPs: All items,99.979
+32000,Nevada,2,"  RPPs: Goods",96.271
+32000,Nevada,3,"  RPPs: Services: Housing",114.135
+32000,Nevada,4,"  RPPs: Services: Utilities",90.510
+32000,Nevada,5,"  RPPs: Services: Other",98.744
+33000,New Hampshire,1,RPPs: All items,104.165
+33000,New Hampshire,2,"  RPPs: Goods",98.578
+33000,New Hampshire,3,"  RPPs: Services: Housing",114.947
+33000,New Hampshire,4,"  RPPs: Services: Utilities",133.663
+33000,New Hampshire,5,"  RPPs: Services: Other",103.879
+34000,New Jersey,1,RPPs: All items,108.805
+34000,New Jersey,2,"  RPPs: Goods",107.066
+34000,New Jersey,3,"  RPPs: Services: Housing",134.292
+34000,New Jersey,4,"  RPPs: Services: Utilities",114.187
+34000,New Jersey,5,"  RPPs: Services: Other",103.529
+35000,New Mexico,1,RPPs: All items,92.212
+35000,New Mexico,2,"  RPPs: Goods",96.144
+35000,New Mexico,3,"  RPPs: Services: Housing",73.611
+35000,New Mexico,4,"  RPPs: Services: Utilities",77.895
+35000,New Mexico,5,"  RPPs: Services: Other",98.540
+36000,New York,1,RPPs: All items,107.921
+36000,New York,2,"  RPPs: Goods",107.254
+36000,New York,3,"  RPPs: Services: Housing",122.168
+36000,New York,4,"  RPPs: Services: Utilities",134.370
+36000,New York,5,"  RPPs: Services: Other",104.067
+37000,North Carolina,1,RPPs: All items,94.326
+37000,North Carolina,2,"  RPPs: Goods",96.621
+37000,North Carolina,3,"  RPPs: Services: Housing",81.364
+37000,North Carolina,4,"  RPPs: Services: Utilities",88.619
+37000,North Carolina,5,"  RPPs: Services: Other",98.186
+38000,North Dakota,1,RPPs: All items,88.959
+38000,North Dakota,2,"  RPPs: Goods",95.701
+38000,North Dakota,3,"  RPPs: Services: Housing",71.421
+38000,North Dakota,4,"  RPPs: Services: Utilities",73.669
+38000,North Dakota,5,"  RPPs: Services: Other",91.158
+39000,Ohio,1,RPPs: All items,92.774
+39000,Ohio,2,"  RPPs: Goods",93.670
+39000,Ohio,3,"  RPPs: Services: Housing",73.012
+39000,Ohio,4,"  RPPs: Services: Utilities",95.823
+39000,Ohio,5,"  RPPs: Services: Other",98.947
+40000,Oklahoma,1,RPPs: All items,87.843
+40000,Oklahoma,2,"  RPPs: Goods",93.778
+40000,Oklahoma,3,"  RPPs: Services: Housing",62.763
+40000,Oklahoma,4,"  RPPs: Services: Utilities",73.882
+40000,Oklahoma,5,"  RPPs: Services: Other",95.458
+41000,Oregon,1,RPPs: All items,103.361
+41000,Oregon,2,"  RPPs: Goods",105.261
+41000,Oregon,3,"  RPPs: Services: Housing",108.628
+41000,Oregon,4,"  RPPs: Services: Utilities",107.046
+41000,Oregon,5,"  RPPs: Services: Other",100.298
+42000,Pennsylvania,1,RPPs: All items,97.572
+42000,Pennsylvania,2,"  RPPs: Goods",99.357
+42000,Pennsylvania,3,"  RPPs: Services: Housing",85.068
+42000,Pennsylvania,4,"  RPPs: Services: Utilities",109.321
+42000,Pennsylvania,5,"  RPPs: Services: Other",99.762
+44000,Rhode Island,1,RPPs: All items,102.280
+44000,Rhode Island,2,"  RPPs: Goods",97.165
+44000,Rhode Island,3,"  RPPs: Services: Housing",105.620
+44000,Rhode Island,4,"  RPPs: Services: Utilities",146.653
+44000,Rhode Island,5,"  RPPs: Services: Other",102.840
+45000,South Carolina,1,RPPs: All items,93.749
+45000,South Carolina,2,"  RPPs: Goods",96.339
+45000,South Carolina,3,"  RPPs: Services: Housing",80.490
+45000,South Carolina,4,"  RPPs: Services: Utilities",88.303
+45000,South Carolina,5,"  RPPs: Services: Other",98.284
+46000,South Dakota,1,RPPs: All items,88.586
+46000,South Dakota,2,"  RPPs: Goods",95.473
+46000,South Dakota,3,"  RPPs: Services: Housing",67.642
+46000,South Dakota,4,"  RPPs: Services: Utilities",79.651
+46000,South Dakota,5,"  RPPs: Services: Other",91.899
+47000,Tennessee,1,RPPs: All items,91.870
+47000,Tennessee,2,"  RPPs: Goods",96.247
+47000,Tennessee,3,"  RPPs: Services: Housing",79.070
+47000,Tennessee,4,"  RPPs: Services: Utilities",72.137
+47000,Tennessee,5,"  RPPs: Services: Other",95.142
+48000,Texas,1,RPPs: All items,97.057
+48000,Texas,2,"  RPPs: Goods",98.083
+48000,Texas,3,"  RPPs: Services: Housing",96.503
+48000,Texas,4,"  RPPs: Services: Utilities",87.512
+48000,Texas,5,"  RPPs: Services: Other",97.081
+49000,Utah,1,RPPs: All items,98.864
+49000,Utah,2,"  RPPs: Goods",96.446
+49000,Utah,3,"  RPPs: Services: Housing",107.814
+49000,Utah,4,"  RPPs: Services: Utilities",78.739
+49000,Utah,5,"  RPPs: Services: Other",98.959
+50000,Vermont,1,RPPs: All items,97.958
+50000,Vermont,2,"  RPPs: Goods",97.274
+50000,Vermont,3,"  RPPs: Services: Housing",86.502
+50000,Vermont,4,"  RPPs: Services: Utilities",125.833
+50000,Vermont,5,"  RPPs: Services: Other",101.586
+51000,Virginia,1,RPPs: All items,101.104
+51000,Virginia,2,"  RPPs: Goods",100.368
+51000,Virginia,3,"  RPPs: Services: Housing",106.799
+51000,Virginia,4,"  RPPs: Services: Utilities",92.185
+51000,Virginia,5,"  RPPs: Services: Other",100.233
+53000,Washington,1,RPPs: All items,107.013
+53000,Washington,2,"  RPPs: Goods",104.359
+53000,Washington,3,"  RPPs: Services: Housing",125.979
+53000,Washington,4,"  RPPs: Services: Utilities",92.860
+53000,Washington,5,"  RPPs: Services: Other",103.873
+54000,West Virginia,1,RPPs: All items,89.497
+54000,West Virginia,2,"  RPPs: Goods",96.539
+54000,West Virginia,3,"  RPPs: Services: Housing",54.241
+54000,West Virginia,4,"  RPPs: Services: Utilities",92.242
+54000,West Virginia,5,"  RPPs: Services: Other",99.940
+55000,Wisconsin,1,RPPs: All items,94.095
+55000,Wisconsin,2,"  RPPs: Goods",94.310
+55000,Wisconsin,3,"  RPPs: Services: Housing",79.312
+55000,Wisconsin,4,"  RPPs: Services: Utilities",89.906
+55000,Wisconsin,5,"  RPPs: Services: Other",99.501
+56000,Wyoming,1,RPPs: All items,92.691
+56000,Wyoming,2,"  RPPs: Goods",95.368
+56000,Wyoming,3,"  RPPs: Services: Housing",71.127
+56000,Wyoming,4,"  RPPs: Services: Utilities",78.422
+56000,Wyoming,5,"  RPPs: Services: Other",100.428
+
+Legend/Footnotes
+"  Last updated: February 19, 2026-- new statistics for 2024; revised statistics for 2008-2023."
