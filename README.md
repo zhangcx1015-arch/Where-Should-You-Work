@@ -11,7 +11,7 @@ The goal is to support location decisions for recent graduates, early-career wor
 
 Live App:
 
-https://zhangcx.shinyapps.io/Project_Prototype/
+https://zhangcx.shinyapps.io/WhereShouldYouWork/
 
 ## Data Sources
 
