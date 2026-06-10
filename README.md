@@ -31,15 +31,15 @@ https://zhangcx.shinyapps.io/WhereShouldYouWork/
 
 ## Files
 
-# Dashboard
+### Dashboard
 * app.R – Shiny dashboard application
 * data_cleaning.R – Data cleaning and merging process
 * state_data_clean.csv – Final cleaned dataset
 
-# Raw Data
+### Raw Data
 * data/ – Raw source data files
 
-# Project Documentation
+### Project Documentation
 * Project Proposal.pdf - Initial project proposal
 * Brief Process Note.pdf – Summary of project development and data processing steps
 * Short Paper.pdf – Final project report and discussion of findings
